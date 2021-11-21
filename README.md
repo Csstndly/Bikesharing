@@ -3,6 +3,7 @@
 ## Overview of the analysis
 
 The purpose of this analysis is to analyze the New York bike sharing data to discover if the bike rental business is a financially sound business to replicate in Des Moines for the angel investor. The analysis answers possible questions the investor has for the business. 
+[link to dashboard](https://public.tableau.com/app/profile/candise.standley/viz/Bikesharing_16364067673970/UserAnalysis?publish=yes)
 
 ## Results
 
