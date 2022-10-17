@@ -26,6 +26,6 @@ The male demographic seems to be the gender to use the services the most majorit
 
 ##Summary
 
-The demographic that uses the bike sharing services the most are males.  And more likely to be regular customers. However, more needs to be done to reach out to the female demographic as they are significantly lower in using the services. With the given data set I would create geographic map that can show which part of the city the data is coming from. The peak hours seem to be around time people are going to eat or getting off work. This could affect why there is less female demographic as maybe the area is primarily an area with male dominated work spaces. 
+The demographic that uses the bike sharing services the most are males.  And more likely to be regular customers. However, more needs to be done to reach out to the female demographic as they are significantly lower in using the services. With the given data set I would create a geographic map that can show which part of the city the data is coming from. The peak hours seem to be around time people are going to eat or getting off work. This could affect why there is less female demographic as maybe the area is primarily an area with male dominated work spaces. 
 
 Another data visualization to create would be the age range that uses the services and compare against the one that don’t use the services. As the average trip duration graph just doesn’t give enough of a snippet of any age range.
